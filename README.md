@@ -2,6 +2,7 @@
 
 🎓 Computer Science student at **FESB (Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture)**
 📍 Split, Croatia
+
 🌐 Interested in **computer networks, programming and web development**
 
 ---
